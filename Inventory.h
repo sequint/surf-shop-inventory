@@ -1,7 +1,3 @@
-// Steven Quintana
-// Chapter 13 Assignment
-// July 1, 2020
-
 // Specification file for the Inventory class.
 
 #ifndef INVENTORY_H
