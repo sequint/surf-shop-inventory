@@ -1,7 +1,3 @@
-// Steven Quintana
-// Chapter 13 Assignment
-// July 1, 2020
-
 // This program uses an inventory class to store and modify customer data for a surf board repair business.
 
 #include <iostream>
