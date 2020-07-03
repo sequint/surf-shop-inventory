@@ -1,7 +1,3 @@
-// Steven Quintana
-// Chapter 13 Assignment
-// July 1, 2020
-
 // Function prototype file for all non-class member functions in the program.
 
 #pragma once
