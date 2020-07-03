@@ -8,7 +8,7 @@ using namespace std;
 //**************************************************************************************************************
 // greaterThenZero Function (int)                                                                              *
 //                                                                                                             *
-// This an overloaded function takes that checks if an int variable passed in is greater than 0.               *
+// This is an overloaded function takes that checks if an int variable passed in is greater than 0.            *
 // If the number is greater than 0 the function returns true, else it returns false.                           *
 //**************************************************************************************************************
 
@@ -27,7 +27,7 @@ bool greaterThanZero(int num)
 //**************************************************************************************************************
 // greaterThenZero Function (float)                                                                            *
 //                                                                                                             *
-// This an overloaded function takes that checks if a float variable passed in is greater than 0.0.            *
+// This is an overloaded function takes that checks if a float variable passed in is greater than 0.0.         *
 // If the number is greater than 0.0 the function returns true, else it returns false.                         *
 //**************************************************************************************************************
 
@@ -62,8 +62,8 @@ bool isLessThan(string text, int length)
 }
 
 //**************************************************************************************************************
-// correctFormat Function																					   *
-//																											   *
+// correctFormat Function										       *															   *
+//													       *													   *
 // This function takes a string argument and checks if it matches the correct phone number format.             *
 //**************************************************************************************************************
 
