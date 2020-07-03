@@ -1,7 +1,3 @@
-// Steven Quintana
-// Chapter 13 Assignment
-// July 1, 2020
-
 // Implementation file for the Inventory class.
 
 #include <iostream>
