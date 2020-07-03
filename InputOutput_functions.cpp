@@ -1,7 +1,3 @@
-// Steven Quintana
-// Chapter 13 Assignment
-// July 1, 2020
-
 // Function file for input validation functions only.
 
 #include <iostream>
